@@ -1,0 +1,15 @@
+#navbar-left {
+    float: left;
+    background-color: yellow;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*
+#section-right {
+    position: relative;
+}
+*/
